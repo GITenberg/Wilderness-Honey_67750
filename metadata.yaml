@@ -8,6 +8,9 @@ contributor:
     deathdate: 1922
     gutenberg_agent_id: '34137'
     url: http://www.gutenberg.org/2009/agents/34137
+covers:
+- cover_type: archival
+  image_path: 67750-h/images/cover.jpg
 creator:
   author:
     agent_name: Pollock, Frank Lillie
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36703
     wikipedia: https://en.wikipedia.org/wiki/Francis_Pollock
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67750#Wilderness-Honey
 gutenberg_issued: '2022-04-01'
 identifiers:
   gutenberg: '67750'
